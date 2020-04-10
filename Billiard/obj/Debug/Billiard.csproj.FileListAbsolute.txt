@@ -1,0 +1,9 @@
+C:\Users\Radan Malbasic\source\repos\Billiard\Billiard\bin\Debug\Billiard.exe.config
+C:\Users\Radan Malbasic\source\repos\Billiard\Billiard\bin\Debug\Billiard.exe
+C:\Users\Radan Malbasic\source\repos\Billiard\Billiard\bin\Debug\Billiard.pdb
+C:\Users\Radan Malbasic\source\repos\Billiard\Billiard\obj\Debug\Billiard.Form1.resources
+C:\Users\Radan Malbasic\source\repos\Billiard\Billiard\obj\Debug\Billiard.Properties.Resources.resources
+C:\Users\Radan Malbasic\source\repos\Billiard\Billiard\obj\Debug\Billiard.csproj.GenerateResource.cache
+C:\Users\Radan Malbasic\source\repos\Billiard\Billiard\obj\Debug\Billiard.exe
+C:\Users\Radan Malbasic\source\repos\Billiard\Billiard\obj\Debug\Billiard.pdb
+C:\Users\Radan Malbasic\source\repos\Billiard\Billiard\obj\Debug\Billiard.csprojAssemblyReference.cache
